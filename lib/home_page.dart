@@ -14,7 +14,7 @@ class _MyHomePageState extends State<MyHomePage> {
   var userQuestion = '';
   var userAnswer = '0';
 
-  final myTextStyle = TextStyle(fontSize: 30, color: Colors.deepPurple[900]);
+  // final myTextStyle = TextStyle(fontSize: 30, color: Colors.deepPurple[900]);
 
   final List<String> buttons = [
     'C',
